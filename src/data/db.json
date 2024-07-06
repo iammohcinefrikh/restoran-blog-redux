@@ -1,0 +1,177 @@
+{
+  "article": [
+    {
+      "id": "1",
+      "articleTitle": "Les meilleures recettes de l'été",
+      "articleText": "Découvrez nos recettes rafraîchissantes pour cet été.",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1719946282/andy-holmes-e8j-YqiBq-Q-unsplash_kwysjb.jpg",
+      "articleCategory": "Recettes et conseils de cuisine",
+      "articlePublishingDate": "01 Juillet 2024"
+    },
+    {
+      "id": "2",
+      "articleTitle": "Interview exclusive avec le chef Yannick Alléno",
+      "articleText": "Le célèbre chef Yannick Alléno nous parle de son parcours et de ses inspirations.",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1719950499/maxmatinnews488366-Ngs0BBE2_s0rpkw.webp",
+      "articleCategory": "Interviews de chefs",
+      "articlePublishingDate": "05 Juillet 2024"
+    },
+    {
+      "id": "4",
+      "articleTitle": "Les tendances alimentaires de 2024",
+      "articleText": "Quels seront les aliments en vogue cette année?",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720014060/alimentaires-tendances-2024_tugbyv.jpg",
+      "articleCategory": "Tendances alimentaires",
+      "articlePublishingDate": "15 Juillet 2024"
+    },
+    {
+      "id": "5",
+      "articleTitle": "Manger sainement au quotidien",
+      "articleText": "Conseils et astuces pour une alimentation équilibrée.",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720019681/manger-sainement-conseils-jpg_owflsp.webp",
+      "articleCategory": "Alimentation saine",
+      "articlePublishingDate": "20 Juillet 2024"
+    },
+    {
+      "id": "6",
+      "articleTitle": "Voyage culinaire : La cuisine italienne",
+      "articleText": "Plongez dans les saveurs de l'Italie avec nos recettes authentiques.",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720019796/bcfa8a783aaf938cdef361634d5f9289-1710853075_zqipkw.jpg",
+      "articleCategory": "Cuisine internationale",
+      "articlePublishingDate": "25 Juillet 2024"
+    },
+    {
+      "id": "7",
+      "articleTitle": "Recettes d'automne à base de citrouille",
+      "articleText": "Profitez de l'automne avec ces délicieuses recettes à base de citrouille.",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720019931/potage-courge_opofhf.avif",
+      "articleCategory": "Recettes de saison",
+      "articlePublishingDate": "01 Août 2024"
+    },
+    {
+      "id": "8",
+      "articleTitle": "Délicieux desserts pour toutes les occasions",
+      "articleText": "Découvrez nos recettes de desserts qui raviront vos papilles.",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720020259/phalbm26112133_w2000h1125c1_rvzbhm.jpg",
+      "articleCategory": "Pâtisserie et desserts",
+      "articlePublishingDate": "05 Août 2024"
+    },
+    {
+      "id": "9",
+      "articleTitle": "Techniques de cuisson : le sous-vide",
+      "articleText": "Apprenez à maîtriser la cuisson sous-vide pour des résultats parfaits.",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720020349/i134949-la-cuisine-sous-vide_grlyfl.jpg",
+      "articleCategory": "Techniques de cuisine",
+      "articlePublishingDate": "10 Août 2024"
+    },
+    {
+      "id": "10",
+      "articleTitle": "Planifiez vos repas pour la semaine",
+      "articleText": "Des conseils pour une planification efficace de vos repas.",
+      "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed odio orci, rutrum et neque dapibus, finibus sagittis ex. Phasellus eget purus et lacus varius iaculis eget a lectus. Vestibulum vel nulla in tortor tincidunt maximus. Cras tincidunt eu tellus auctor sodales. Proin sed finibus leo. Integer fermentum erat risus, quis dictum nisl efficitur ac. Pellentesque ullamcorper ex sit amet tortor facilisis, in venenatis augue ultrices. Donec pretium tincidunt diam quis varius. Nam mattis lacinia velit, bibendum feugiat elit condimentum et. Pellentesque pulvinar lobortis erat, ut tincidunt dui luctus at. Donec lobortis elit tortor, in iaculis dui posuere ac. In cursus volutpat metus efficitur tristique. Donec a nisl interdum, tempor nisl non, iaculis orci. Aliquam sed ultricies risus. Maecenas laoreet velit sed elit fermentum tincidunt.\nDonec rhoncus odio at neque tristique convallis. Nam mattis luctus neque, sit amet volutpat quam pulvinar non. Cras eu vulputate velit, at molestie sem. Etiam non dui nisl. Nullam et nunc nec mi tempor suscipit. Duis mattis et libero a efficitur. Pellentesque semper felis accumsan nibh laoreet, vitae vestibulum lorem convallis. Quisque in libero lorem. Vivamus posuere nulla et dolor scelerisque dictum. Nullam vestibulum nunc id sagittis commodo.\nProin nisi est, egestas tincidunt congue vel, tincidunt eu justo. Proin suscipit mattis ipsum sit amet sollicitudin. Quisque id rhoncus est, quis suscipit ipsum. Vivamus mauris eros, convallis gravida lobortis nec, euismod eget purus. In et pretium massa. Integer non euismod nunc, vitae consectetur augue. Nulla fringilla nisl lacus, id auctor metus facilisis at. Mauris varius lobortis lorem, ut auctor est gravida at. In hac habitasse platea dictumst. Mauris eu est id tortor posuere ultrices eu sit amet odio. Mauris justo ipsum, efficitur quis tempus ac, molestie id magna. Suspendisse aliquam, augue eu congue tempor, diam est laoreet tellus, ut tincidunt risus tortor consectetur est. Proin bibendum suscipit luctus. Vivamus dignissim quis lectus quis imperdiet. Cras tempor malesuada mattis. Aenean euismod, turpis sit amet feugiat efficitur, dui ex iaculis urna, ut pharetra dui urna nec dui.\nUt nec ultrices ante. Donec ipsum diam, mollis at elit nec, ornare dictum turpis. Aenean fermentum diam in blandit tempus. Vestibulum ut dui rhoncus ante congue venenatis. Cras nec odio mollis, auctor mauris ut, accumsan orci. Fusce sed lorem vitae dolor vulputate placerat. Phasellus dictum fermentum lectus id iaculis.\nDonec quis dolor et massa iaculis lacinia fermentum sit amet massa.\nPraesent vel lacus eu elit ultrices condimentum. Nam justo dui, euismod eget arcu vel, aliquam commodo lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed dapibus eros nec lectus tempus, quis interdum nisi suscipit. Suspendisse ut blandit est. Duis id tempor sapien, nec maximus velit. Quisque tristique urna quam, ac maximus est pulvinar vitae. Nullam vitae elit eget est viverra elementum et eu tortor. Nunc sit amet aliquet mi. Donec ante tellus, efficitur eget imperdiet at, auctor eu augue.",
+      "articleImage": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720020440/Batch-Cooking-scaled_hp4gzl.jpg",
+      "articleCategory": "Planification et préparation des repas",
+      "articlePublishingDate": "15 Août 2024"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "categoryName": "Recettes et conseils de cuisine"
+    },
+    {
+      "id": "2",
+      "categoryName": "Interviews de chefs"
+    },
+    {
+      "id": "3",
+      "categoryName": "Outils et gadgets de cuisine"
+    },
+    {
+      "id": "4",
+      "categoryName": "Tendances alimentaires"
+    },
+    {
+      "id": "5",
+      "categoryName": "Alimentation saine"
+    },
+    {
+      "id": "6",
+      "categoryName": "Cuisine internationale"
+    },
+    {
+      "id": "7",
+      "categoryName": "Recettes de saison"
+    },
+    {
+      "id": "8",
+      "categoryName": "Pâtisserie et desserts"
+    },
+    {
+      "id": "9",
+      "categoryName": "Techniques de cuisine"
+    },
+    {
+      "id": "10",
+      "categoryName": "Planification et préparation des repas"
+    }
+  ],
+  "person": [
+    {
+      "id": "1",
+      "personName": "Alice Martin",
+      "personRole": "Head Chef",
+      "personPicture": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720090661/profile-picture_owxmks.png"
+    },
+    {
+      "id": "2",
+      "personName": "Benjamin Clark",
+      "personRole": "Sous Chef",
+      "personPicture": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720090661/profile-picture_owxmks.png"
+    },
+    {
+      "id": "3",
+      "personName": "Catherine Lee",
+      "personRole": "Pastry Chef",
+      "personPicture": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720090661/profile-picture_owxmks.png"
+    },
+    {
+      "id": "4",
+      "personName": "David Thompson",
+      "personRole": "Restaurant Manager",
+      "personPicture": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720090661/profile-picture_owxmks.png"
+    },
+    {
+      "id": "5",
+      "personName": "Emma Robinson",
+      "personRole": "Food Blogger",
+      "personPicture": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720090661/profile-picture_owxmks.png"
+    },
+    {
+      "id": "6",
+      "personName": "Frank Harris",
+      "personRole": "Sommelier",
+      "personPicture": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720090661/profile-picture_owxmks.png"
+    },
+    {
+      "id": "7",
+      "personName": "Grace Taylor",
+      "personRole": "Nutritionist",
+      "personPicture": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720090661/profile-picture_owxmks.png"
+    },
+    {
+      "id": "8",
+      "personName": "Henry White",
+      "personRole": "Marketing Specialist",
+      "personPicture": "https://res.cloudinary.com/dsf8phwpz/image/upload/v1720090661/profile-picture_owxmks.png"
+    }
+  ]
+}
